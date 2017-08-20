@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "sanpham",
+  "version": "1.0.0",
+  "description": "My Project",
+  "main": "index.js",
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: No Test Specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackerstudent98/sanpham.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackerstudent98/sanpham/issues"
+  },
+  "homepage": "https://github.com/Hackerstudent98/sanpham#readme"
+}
